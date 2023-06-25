@@ -1,0 +1,3 @@
+- 👋 Hi, I’m @Henriette-Schulz
+- 👀 I’m interested in programming and design
+- 🌱 I’m currently learning Python
